@@ -8,9 +8,10 @@ The primary goal of this project is to identify genes that are correlated with t
 - Enviroment analysis using screen time exposure to determine the interaction with genetic variants
 
 **RESULT**
+
 ![result](/gwas.png)
 
 **Appendix**
-[Gene selection](/dataset/update_candidate_genes.xlsx)
-[Main idea of quality control](/references/slides.pdf)
-[Plink tutorial](/references/PLINK.pdf)
+1. [Gene selection](/dataset/update_candidate_genes.xlsx)
+2. [Main idea of quality control](/references/slides.pdf)
+3. [Plink tutorial](/references/PLINK.pdf)
