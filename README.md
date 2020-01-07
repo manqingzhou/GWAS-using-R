@@ -13,5 +13,4 @@ The primary goal of this project is to identify genes that are correlated with t
 
 **Appendix**
 1. [Gene selection](/dataset/update_candidate_genes.xlsx)
-2. [Main idea of quality control](/references)
-3. [Plink tutorial](/references)
+
